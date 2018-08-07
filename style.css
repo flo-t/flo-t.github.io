@@ -16,3 +16,6 @@ h1 em {
 li {
   font-weight: bold;
 }
+.code {
+  font-style: italic;
+}
