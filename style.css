@@ -13,3 +13,6 @@ h1 {
 h1 em {
   font-size: 170%
 }
+li {
+  font-weight: bold;
+}
