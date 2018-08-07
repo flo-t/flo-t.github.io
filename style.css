@@ -7,6 +7,9 @@
 p {
   font-size: 80%
 }
-h1 ul {
+h1 {
   font-size: 130%
+}
+h1 em {
+  font-size: 170%
 }
