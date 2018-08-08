@@ -34,3 +34,6 @@ body {
 img {
   text-align: right;
 }
+h2 {
+  border: 2px black solid;
+}
