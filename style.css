@@ -5,13 +5,13 @@
   color: blue;
 }
 p {
-  font-size: 80%
+  font-size: 0.3em;
 }
 h1 {
-  font-size: 130%
+  font-size: 1.3em;
 }
 h1 em {
-  font-size: 170%
+  font-size: 1.7em;
 }
 li {
   font-weight: bold;
@@ -27,4 +27,7 @@ body {
 }
 .ligneintro {
   text-align: center;
+}
+body {
+  background-color: grey;
 }
