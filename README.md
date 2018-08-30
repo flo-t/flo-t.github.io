@@ -17,7 +17,7 @@ Then, you need to clone the repository onto your computer. You need to open a te
 git config --global user.email "florian.trehen@gmail.com"
 git config --global user.name "florian"
 git clone https://github.com/flo-t/flo-t.github.io.git
-npm i -g browser-sync
+npm install --global browser-sync
 ```
 
 It will create a folder called flo-t.github.io.git with your code in it in your user directory.
